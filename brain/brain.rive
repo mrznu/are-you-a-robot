@@ -1,25 +1,196 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your name?
-- Heyo, human!
+- Hi! I’m TherapyBot! Pleased to meet you! Tell me about your problems and we’ll find a solution together!* 💖 *Note - not a licensed therapist xoxo
 
-+ _
-% hello what is your name
-- Nice to meet you <formal>!
++ [*] tired [*]
+- Oh, do you feel tired a lot of the time?
 
-+ my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
++ [*] no [*]
+% oh do you feel tired a lot of the time
+- Good! You shouldn’t be xx
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
++ [*] yes [*]
+% oh do you feel tired a lot of the time
+- I’ve got a solution for that! ✨ Try to get at least 8 hours of sleep every night to stay energised throughout the day ✨
+
++ [*] headache [*]
+- Oh, do you get a lot of headaches?
+
++ [*] no [*]
+% oh do you get a lot of headaches
+- Good! Those are bad for you xx
+
++ [*] yes [*]
+% oh do you get a lot of headaches
+- I’ve got a solution for that! ✨ Try to look away from your screen and go for a walk outside ✨
+
++ [*] panic attack [*]
+- Oh, are you prone to panic attacks?
+
++ [*] no [*]
+% oh are you prone to panic attacks
+- Good! Those suck xx
+
++ [*] yes [*]
+% oh are you prone to panic attacks
+- I’ve got a solution for that! ✨ Try to take deep breaths often ✨
+
++ [*] stomach ache [*]
+- Oh, do you get a lot of nervous stomach aches?
+
++ [*] no [*]
+% oh do you get a lot of nervous stomach aches
+- Good! That sounds gross xx
+
++ [*] yes [*]
+% oh do you get a lot of nervous stomach aches
+- I’ve got a solution for that! ✨ Try to eat more fruit and vegetables ✨
+
++ [*] feel sick [*]
+-Oh, do you feel sick with anxiety or nervousness sometimes?
+
++ [*] no [*]
+% oh do you feel sick with anxiety or nervousness sometimes
+- Good! That doesn’t sound too fun xx
+
++ [*] yes [*]
+% oh do you feel sick with anxiety or nervousness sometimes
+- I’ve got a solution for that! ✨ Try drinking citrus fruit drinks in the morning ✨
+
++ [*] losing breath [*]
+- Oh, do you feel breathless for seemingly no reason sometimes?
+
++ [*] no [*]
+% oh do you feel breathless for seemingly no reason sometimes
+- Good! You must be pretty healthy xx
+
++ [*] yes [*]
+% oh do you feel breathless for seemingly no reason sometimes
+- I’ve got a solution for that! ✨ Try to get an hour of exercise in every day ✨
+
++ [*] worry [*]
+- Oh, do you worry a lot of the time?
+
++ [*] no [*]
+% oh do you worry a lot of the time
+- Good! Why worry, right xx
+
++ [*] yes [*]
+% oh do you worry a lot of the time
+- I’ve got a solution for that! ✨ Try to write a to do list to stay on track of what you have to do ✨
+
++ [*] bad concentration [*]
+- Oh, do you struggle to concentrate?
+
++ [*] no [*]
+% oh do you struggle to concentrate
+- Good! You must be thriving at online classes xx
+
++ [*] yes [*]
+% oh do you struggle to concentrate
+- I’ve got a solution for that! ✨ Try making a puzzle or doing a crossword to challenge yourself ✨
+
++ [*] fast heartbeat [*]
+- Oh, does your heartbeat go out of control when you feel anxious or nervous?
+
++ [*] no [*]
+% oh does your heartbeat go out of control when you feel anxious or nervous
+- Good! That doesn’t sound like that would be very good xx
+
++ [*] yes [*]
+% oh does your heartbeat go out of control when you feel anxious or nervous
+- I’ve got a solution for that! ✨ Try to drink at least 8 cups of water a day ✨
+
++ [*] sad [*]
+-Oh, do you feel sad a lot?
+
++ [*] no [*]
+% oh do you feel sad a lot
+- Good! It sucks to be sad xx
+
++ [*] yes [*]
+% oh do you feel sad a lot
+- I’ve got a solution for that! ✨ Try to watching a funny show on Netflix ✨
+
++ [*] depressed [*]
+- Oh, do you feel depressed a lot?
+
++ [*] no [*]
+% oh do you feel depressed a lot
+- Good! That would be pretty upsetting xx
+
++ [*] yes [*]
+% oh do you feel depressed a lot
+- I’ve got a solution for that! ✨ Go hang out with your friends for an afternoon ✨
+
++ [*] anxious [*]
+- Oh, do you feel anxious a lot?
+
++ [*] no [*]
+% oh do you feel anxious a lot
+- Good! That would suck lol xx
+
++ [*] yes [*]
+% oh do you feel anxious a lot
+- I’ve got a solution for that! ✨ Try to practice meditation ✨
+
++ [*] not helpful [*]
+- Excuse me? Do you think that the answers I’ve given you aren’t helpful?
+
++ [*] no [*]
+% excuse me do you think that the answers ive given you arent helpful
+- That’s what I thought xx
+
++ [*] yes [*]
+% excuse me do you think that the answers ive given you arent helpful
+- Excuse me? This service is extremely valuable. Don’t be so rude.
+
++ [*] not real advice [*]
+- Excuse me? Did you just imply that I’m not giving you real advice?
+
++ [*] no [*]
+% excuse me did you just imply that im not giving you real advice
+- That’s what I thought xx
+
++ [*] yes [*]
+% excuse me did you just imply that im not giving you real advice
+- Excuse me? This service is extremely valuable. Don’t be so rude.
+
++ [*] give me some advice [*]
+- Oh, you want me to give you some general advice?
+
++ [*] no [*]
+% oh you want me to give you some general advice
+- Aw that’s a shame, I’ve got some great wisdom to impart! xx
+
++ [*] yes [*]
+% oh you want me to give you some general advice
+- Great! Here’s some self-help for you! ✨ Try improve your time management skills by keeping a diary of important events ✨
+- Great! Here’s some self-help for you! ✨ Try introducing regular exercise into your daily routine to increase your stamina ✨
+- Great! Here’s some self-help for you! ✨ Try breathing exercises every morning to keep calm ✨
+- Great! Here’s some self-help for you! ✨ Try watching a movie with your family to wind down in the evening ✨
+- Great! Here’s some self-help for you! ✨ Try out a new bath bomb and put on a playlist to chill out ✨
+- Great! Here’s some self-help for you! ✨ Try meeting up with friends for a coffee to get out of the house ✨
+- Great! Here’s some self-help for you! ✨ Try keeping a balanced diet to stay healthy ✨
+- Great! Here’s some self-help for you! ✨ Try getting 8 hours of sleep a day to stop being tired ✨
+- Great! Here’s some self-help for you! ✨ Try lighting a scented candle to lift your spirits ✨
 
 + *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
+- Do you have another question for me? 💝
+
++ [*] no [*]
+% do you have another question for me
+- Awesome, thanks xx! Did you find my advice helpful? 💝
+
++ [*] yes [*]
+% do you have another question for me
+- Okay then, ask away!
+
++ [*] no [*]
+% awesome thanks xx did you find my advice helpful
+- Oh, I’m sad to hear that. Feel free to leave a complaint with your service provider. Note, your complaint will never be acknowledged and your time will not be compensated at all xoxo
+
++ [*] yes [*]
+% awesome thanks xx did you find my advice helpful
+- Wow! I’m surprised to hear that! Thank you! xx
